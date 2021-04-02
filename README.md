@@ -1,2 +1,2 @@
-# whitepaper
+# Whitepaper
 Bioner Token Coin Whitepaper
